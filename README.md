@@ -1,4 +1,4 @@
-# An updated version of this tutorial can now be found in the [Python Slack SDK](https://github.com/slackapi/python-slackclient/tree/master/tutorial)
+## An updated version of this tutorial can now be found in the [Python Slack SDK](https://github.com/slackapi/python-slackclient/tree/master/tutorial)
 
 ## pythOnBoarding Bot
 ### Building a simple bot using [Slack's Events API](https://api.slack.com/events-api) in Python
